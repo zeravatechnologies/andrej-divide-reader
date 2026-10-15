@@ -96,7 +96,7 @@ Installed-Size: $SIZE
 Maintainer: Andrej Ristić <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libstdc++6, libgcc-s1, libgomp1, libssl3 | libssl3t64, libxcb-cursor0, libxkbcommon-x11-0, libegl1, libgl1, libfontconfig1, libdbus-1-3, xdg-utils
 Recommends: libvulkan1, mesa-vulkan-drivers
-Homepage: https://github.com/andrejristic/divide-reader
+Homepage: https://github.com/zeravatechnologies/andrej-divide-reader
 Description: count how many sides a text sorts its figures into
  Divide Reader reads websites, books and files sentence by sentence and
  counts, for each sentence, every way the speaker sorts its figures into

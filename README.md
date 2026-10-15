@@ -72,3 +72,9 @@ The Windows installer is built on Windows, in Git Bash with Inno Setup 6: `bash 
 ## Licence
 
 GPL-3.0-or-later. The bundled llama.cpp is MIT.
+
+## Author
+
+Created by **Andrej Ristić**, [Zerava Technologies Inc.](https://www.zeravatech.ca), Toronto.
+
+Source: <https://github.com/zeravatechnologies/andrej-divide-reader>

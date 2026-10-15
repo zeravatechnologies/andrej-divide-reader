@@ -14,7 +14,7 @@ import httpx
 from . import __version__, ingest
 from .store import Store
 
-USER_AGENT = f"DivideReader/{__version__} (+https://github.com/andrejristic/divide-reader)"
+USER_AGENT = f"DivideReader/{__version__} (+https://github.com/zeravatechnologies/andrej-divide-reader)"
 DOWNLOADABLE = (".pdf", ".epub", ".txt")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".mp4", ".mp3", ".zip", ".gz", ".css", ".js",
             ".ico", ".xml", ".json", ".woff", ".woff2")
